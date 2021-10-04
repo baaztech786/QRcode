@@ -1,0 +1,13 @@
+/*
+***************************** Stylesheet for Success Page *********************************************
+*/
+
+body
+{
+    background-color: #E9ECEF !important;
+}
+div.jumbotron
+{
+    margin-top: 10%;
+    height: 400px !important;
+}
